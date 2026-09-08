@@ -44,9 +44,3 @@ Repeating elements are: 2 3
 - How to compare the current element with previous elements.
 - How to handle duplicate values without using extra data structures.
 - How nested loops can be used for array problems.
-
-## 🚀 Progress
-
-**Day 23 / 100 ✅**
-
-Keep Coding. Keep Learning. Keep Improving. 🔥
