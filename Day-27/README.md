@@ -63,9 +63,3 @@ Since both sums are equal, index `2` is the equilibrium index.
 - How to calculate left and right sums efficiently.
 - How to avoid using extra arrays.
 - How to optimize an array problem to O(n) time.
-
-## 🚀 Progress
-
-**Day 27 / 100 ✅**
-
-Keep Coding. Keep Learning. Keep Improving. 🔥
