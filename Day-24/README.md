@@ -47,9 +47,3 @@ Leaders in the array are: 1 2 3 4 5 6 7 8 11
 - Why traversing from right to left makes this problem easier.
 - How to keep track of the maximum element.
 - How to solve an array problem efficiently without extra space.
-
-## 🚀 Progress
-
-**Day 24 / 100 ✅**
-
-Keep Coding. Keep Learning. Keep Improving. 🔥
