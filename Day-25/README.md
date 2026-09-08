@@ -48,8 +48,3 @@ Pair found: (9, 4)
 - How to avoid comparing the same pair twice.
 - How to stop the program when the required pair is found.
 
-## 🚀 Progress
-
-**Day 25 / 100 ✅**
-
-Keep Coding. Keep Learning. Keep Improving. 🔥
