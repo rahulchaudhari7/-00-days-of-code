@@ -55,8 +55,3 @@ Since all three arrays are sorted, three pointers are used:
 - How to use multiple pointers for array problems.
 - How to reduce unnecessary comparisons.
 
-## 🚀 Progress
-
-**Day 26 / 100 ✅**
-
-Keep Coding. Keep Learning. Keep Improving. 🔥
