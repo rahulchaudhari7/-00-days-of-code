@@ -26,11 +26,11 @@ int main(){
         }
     }
     if(count > n / 2){
-        cout << "The majority element is: "
+        cout << "The majority element is : "
              << majorityElement << endl;
     }
     else{
-        cout << "No majority element found." << endl;
+        cout << "No majority element found in the given array." << endl;
     }
     return 0;
 }
