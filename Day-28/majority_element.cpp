@@ -25,7 +25,7 @@ int main(){
             count++;
         }
     }
-    if(count > n / 2){
+    if(count > n/2){
         cout << "The majority element is : "
              << majorityElement << endl;
     }
