@@ -22,7 +22,7 @@ int main(){
         leftSum += arr[i];
     }
     if(!found){
-        cout << "No equilibrium point found." << endl;
+        cout << "No equilibrium found in the array." << endl;
     }
     return 0;
 }
