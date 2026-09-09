@@ -54,6 +54,4 @@ This problem is solved using the **Boyer-Moore Voting Algorithm**.
 
 ## 🚀 Progress
 
-**Day 28 / 100 ✅**
-
 Keep Coding. Keep Learning. Keep Improving. 🔥
