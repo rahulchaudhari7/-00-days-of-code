@@ -51,5 +51,3 @@ This problem is solved using the **Boyer-Moore Voting Algorithm**.
 - How to reduce time complexity from O(n²) to O(n).
 - Why verification is important after finding a possible candidate.
 - How to solve the problem without using extra data structures.
-
-Keep Coding. Keep Learning. Keep Improving. 🔥
