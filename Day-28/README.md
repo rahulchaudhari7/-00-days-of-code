@@ -10,7 +10,7 @@ If no element appears more than `n/2` times, print that no majority element exis
 
 ### Input
 
-1 1 2 3 2 2 1 2 2 4
+1 1 2 2 2
 
 ### Output
 
