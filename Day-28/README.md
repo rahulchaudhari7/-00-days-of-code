@@ -52,6 +52,4 @@ This problem is solved using the **Boyer-Moore Voting Algorithm**.
 - Why verification is important after finding a possible candidate.
 - How to solve the problem without using extra data structures.
 
-## 🚀 Progress
-
 Keep Coding. Keep Learning. Keep Improving. 🔥
