@@ -55,9 +55,3 @@ Maximum Profit: 5
 - How to calculate the best possible profit in one traversal.
 - How to solve the problem using constant extra space.
 - How a greedy approach can optimize an array problem.
-
-## 🚀 Progress
-
-**Day 31 / 100 ✅**
-
-Keep Coding. Keep Learning. Keep Improving. 🔥
