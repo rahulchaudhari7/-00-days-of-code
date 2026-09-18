@@ -16,6 +16,6 @@ int main(){
             MinElement= arr[i];
         }
     }
-    cout<<"Maximum difference is :"<<MaxDifference;
+    cout<<"Maximum difference from the array is :"<<MaxDifference;
     return 0;
 }
