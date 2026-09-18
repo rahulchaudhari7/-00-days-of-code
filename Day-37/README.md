@@ -73,12 +73,3 @@ This ensures that the smaller element always appears **before** the larger eleme
 * **Space Complexity:** `O(1)`
 
 The array is traversed only once, making the solution efficient.
-
----
-
-## 📚 What I Learned
-
-* How to find the maximum difference while maintaining the correct array order.
-* How to track the minimum element during traversal.
-* Understanding the importance of the condition `j > i`.
-* Improved my understanding of single-pass array algorithms.
