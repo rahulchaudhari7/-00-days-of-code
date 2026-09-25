@@ -25,6 +25,6 @@ int main(){
             }
         }
     }
-    cout << "Longest subarray length: " << MaxLength;
+    cout << "Longest subarray from the given array are: " << MaxLength;
     return 0;
 }
