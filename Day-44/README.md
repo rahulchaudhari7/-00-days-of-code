@@ -1,4 +1,4 @@
-# Day 44 – Longest Subarray With Equal 0s and 1s
+# Day 44 – Longest Subarray With Equal zeroes and ones
 
 ## Problem
 
