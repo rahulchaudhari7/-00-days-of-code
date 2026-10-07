@@ -54,9 +54,3 @@ Negative numbers and zero are ignored because we are only looking for positive i
 * How to ignore negative numbers and zero.
 * How linear search can be used to check the presence of elements.
 * How to solve array-based problems using simple loops and conditions.
-
-## 100 Days of Code
-
-Day 56 / 100 🚀
-
-Consistency over perfection. 💻🔥
