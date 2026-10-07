@@ -1,58 +1,62 @@
-# Day 56 – Find Common Characters in Two Strings
+# Day 56 – First Missing Positive Number
 
 ## Problem
 
-Given two strings, find the characters that are present in both strings.
+Given an array of integers, find the smallest positive integer that is missing from the array.
 
 ## Example
 
 ### Input
 
-String 1 = "apple"
-
-String 2 = "grape"
+Array = {3, 4, -1, 1}
 
 ### Output
 
-Common characters: a e p
+First missing positive number: 2
 
 ## Explanation
 
-We check the characters present in both strings.
+We need to find the smallest positive number that is not present in the array.
 
-For the given strings:
+For the given array:
 
-* `a` is present in both.
-* `e` is present in both.
-* `p` is present in both.
+* `1` is present.
+* `2` is missing.
 
-Therefore, the common characters are `a`, `e`, and `p`.
+Therefore, the first missing positive number is `2`.
+
+Negative numbers and zero are ignored because we are only looking for positive integers.
 
 ## Approach
 
-1. Take two strings as input.
-2. Create frequency arrays for both strings.
-3. Count the frequency of each character in the first string.
-4. Count the frequency of each character in the second string.
-5. Traverse the character range.
-6. If a character is present in both strings, display it.
+1. Start checking positive integers from `1`.
+2. Search for the current positive number in the array.
+3. If the number is found, move to the next positive number.
+4. If the number is not found, it is the first missing positive number.
+5. Display the result.
 
 ## Concepts Used
 
-* Strings
-* Character Frequency
 * Arrays
+* Linear Search
 * Loops
 * Conditional Statements
+* Positive Number Checking
 
 ## Complexity
 
-* Time Complexity: O(n + m)
+* Time Complexity: O(n²)
 * Space Complexity: O(1)
 
 ## What I Learned
 
-* How to compare characters between two strings.
-* How frequency arrays can be used for string problems.
-* How to find common elements efficiently.
-* How character frequency helps in solving comparison problems.
+* How to find the smallest missing positive integer.
+* How to ignore negative numbers and zero.
+* How linear search can be used to check the presence of elements.
+* How to solve array-based problems using simple loops and conditions.
+
+## 100 Days of Code
+
+Day 56 / 100 🚀
+
+Consistency over perfection. 💻🔥
