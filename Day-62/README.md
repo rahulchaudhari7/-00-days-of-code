@@ -2,7 +2,6 @@
 
 ## Problem
 Implement a queue using two stacks and support enqueue, dequeue, and display operations.
-
 ## Example
 **Operations:**
 - Enqueue 10
@@ -13,10 +12,8 @@ Implement a queue using two stacks and support enqueue, dequeue, and display ope
 ```text
 Removed: 10
 ```
-
 ## Explanation
 A queue follows FIFO (First In, First Out), while a stack follows LIFO (Last In, First Out). Two stacks can be used together to implement queue behaviour.
-
 ## Approach
 - Use the first stack (`s1`) to insert new elements.
 - When removing an element, transfer elements to the second stack (`s2`) if it is empty.
