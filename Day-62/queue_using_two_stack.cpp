@@ -6,19 +6,16 @@ using namespace std;
 class Queue {
 private:
     stack<int> s1, s2;
-
 public:
     void enqueue(int value) {
         s1.push(value);
         cout << value << " inserted into queue\n";
     }
-
     void dequeue() {
         if (s1.empty() && s2.empty()) {
             cout << "Queue is empty\n";
             return;
         }
-
         if (s2.empty()) {
             while (!s1.empty()) {
                 s2.push(s1.top());
