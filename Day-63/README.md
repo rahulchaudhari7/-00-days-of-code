@@ -44,5 +44,3 @@ Here, `n` represents the queue capacity for space complexity.
 ## What I Learned
 I learned how circular indexing works and how a circular queue reuses array space efficiently.
 
-## 100 Days of Code
-Day 63 completed! Continuing to improve my C++ and data structures skills through daily practice.
