@@ -20,7 +20,6 @@ int main() {
 
             char top = st.top();
             st.pop();
-
             if ((ch == ')' && top != '(') ||
                 (ch == '}' && top != '{') ||
                 (ch == ']' && top != '[')) {
@@ -29,11 +28,9 @@ int main() {
             }
         }
     }
-
     if (!st.empty()) {
         valid = false;
     }
-
     if (valid)
         cout << "Valid Parentheses" << endl;
     else
