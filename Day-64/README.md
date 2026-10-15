@@ -1,5 +1,4 @@
 # Day 64 - Valid Parentheses Using Stack in C++
-
 ## 🎯 Objective
 To check whether a string contains valid and properly matched parentheses using a stack.
 
@@ -16,12 +15,9 @@ Push every opening bracket onto the stack. For each closing bracket, check wheth
 
 ## ✅ Example
 **Input:** `{[()]}`
-
 **Output:** `Valid Parentheses`
-
 ## ⏱️ Complexity
 - Time Complexity: O(N)
 - Space Complexity: O(N)
-
 ## 🚀 Learning Outcome
 Learned how to use a stack to validate balanced parentheses in a string.
