@@ -11,11 +11,9 @@ struct Node {
         next = nullptr;
     }
 };
-
 class LinkedList {
 private:
     Node* head;
-
 public:
     LinkedList() {
         head = nullptr;
