@@ -4,7 +4,6 @@
 Implement a singly linked list that allows users to insert nodes at the end and display all node values.
 
 ## Example
-
 **Input:**
 ```text
 4
