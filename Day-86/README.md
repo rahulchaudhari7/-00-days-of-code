@@ -9,7 +9,6 @@ The lowest common ancestor is the deepest node that has both values as descendan
 ## Example
 
 Input:
-
 ```text
 7
 50 30 70 20 40 60 80
